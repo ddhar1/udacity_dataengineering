@@ -1,0 +1,14 @@
+*.parquet
+*.parquet.crc
+**/__pycache__/
+**/lesson_files
+*.csv
+*.zip
+*json
+**/credentials.csv
+**/.ipynb_checkpoints
+*.xlsx
+*.docx
+*.pdf
+**/hi.txt
+**/06_capstone
